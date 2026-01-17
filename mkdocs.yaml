@@ -14,11 +14,11 @@
 
 site_name: "Project Documentation"
 
-#TODO: Change to your GitHub Pages URL.
-site_url: https://denisecase.github.io/datafun-01-foundations/
+#: Change to your GitHub Pages URL.
+site_url: https://chaupalma81-commits.github.io/chau-palma-data-01-foundations/
 
-#TODO: Change to your GitHub repository URL.
-repo_url: https://github.com/denisecase/datafun-01-foundations
+#: Change to your GitHub repository URL.
+repo_url: https://github.com/chaupalma81-commits/chau-palma-data-01-foundations
 
 site_description: Project documentation.
 
@@ -29,8 +29,8 @@ extra:
   # WHY: Social links are optional polish; safe to remove without breaking docs.
   social:
     - icon: fontawesome/brands/github
-      #TODO: Change to your GitHub repository URL.
-      link: https://github.com/denisecase/datafun-01-foundations
+      #: Change to your GitHub repository URL.
+      link: https://github.com/chaupalma81-commits/chau-palma-data-01-foundations
 
 # WHY: Material theme is industry standard, well-documented, and low maintenance.
 # CUSTOM: Explore other themes at https://mkdocs.org/about/themes/

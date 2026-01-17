@@ -59,7 +59,7 @@ uv run python src/datafun_01_foundations/app_case.py
 After running:
 
 ```shell
-uv run python src/datafun_01_foundations/app_yourname.py
+uv run python src/datafun_01_foundations/app_chaupalma.py
 ```
 
 ```text
@@ -80,7 +80,7 @@ uv run python src/datafun_01_foundations/app_yourname.py
     Custom Information:
         Company name: DataFun Analytics
         Employee count: 150
-        TODO: Add your other global variables below:
+        : Add your other global variables below:
 
 
 
@@ -92,12 +92,12 @@ uv run python src/datafun_01_foundations/app_yourname.py
 2026-01-11 17:03:14 | INFO | P01 |
     Descriptive Statistics for Snowfall (inches):
         Total snowfall: 22.50 inches
-        TODO: Add your count of measurements below:
+        : Add your count of measurements below:
 
-        TODO: Add your minimum and maximum snowfall below:
+        : Add your minimum and maximum snowfall below:
 
         Average snowfall: 4.50 inches
-        TODO: Add your standard deviation below:
+        : Add your standard deviation below:
 
 
 2026-01-11 17:03:14 | INFO | P01 | END main()..................
