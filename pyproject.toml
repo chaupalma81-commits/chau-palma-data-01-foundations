@@ -8,7 +8,7 @@
 # WHY: Centralizes project configuration.
 
 [project]
-name = "datafun-01-foundations" # CUSTOM: Package distribution name (use lowercase and dashes).
+name = "chau-palma-data-01-foundations" # CUSTOM: Package distribution name (use lowercase and dashes).
 readme = "README.md"
 requires-python = ">=3.14"
 version = "0.1.0"

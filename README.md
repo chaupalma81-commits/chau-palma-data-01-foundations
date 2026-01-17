@@ -1,6 +1,6 @@
-# datafun-01-foundations
+# data-01-foundations
 
-> Professional Python project: creating variables and running code.
+> Professional Python project: 1st time creating variables and running code.
 
 ## Project Planning
 
